@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "WE WILL!!",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-09T06:35:22.045320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maybe We Will",
+      "artist": "Noah Schnacky",
+      "has_synced": true,
+      "path": "select/01_Maybe_We_Will_Noah_Schnacky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Will Not Grow Old",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/02_We_Will_Not_Grow_Old_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_We_Will_Rock_You_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ode We Will Bury Ourselves",
+      "artist": "Moving Mountains",
+      "has_synced": true,
+      "path": "select/04_Ode_We_Will_Bury_Ourselves_Moving_Mountains.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Will Commit Wolf Murder",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/05_We_Will_Commit_Wolf_Murder_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Will Rise Again (Reinterpretation)",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/06_We_Will_Rise_Again_(Reinterpretation)_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Will Be (feat. Matt Wills) [Extended Mix]",
+      "artist": "Wilkinson feat. Matt Wills",
+      "has_synced": true,
+      "path": "select/07_We_Will_Be_(feat._Matt_Wills)_[Extended_Mix]_Wilkinson_feat._Matt_Wills.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Day We Will All B Free",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/08_One_Day_We_Will_All_B_Free_Prince.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Will Always Love You",
+      "artist": "The Avalanches feat. Blood Orange",
+      "has_synced": true,
+      "path": "select/09_We_Will_Always_Love_You_The_Avalanches_feat._Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Will Always Love You (feat. Blood Orange)",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/10_We_Will_Always_Love_You_(feat._Blood_Orange)_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Will Be Apart",
+      "artist": "Bodies of Water",
+      "has_synced": false,
+      "path": "select/11_We_Will_Be_Apart_Bodies_of_Water.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Will Vacation, You Can Be My Parasol",
+      "artist": "Be Your Own Pet",
+      "has_synced": true,
+      "path": "select/12_We_Will_Vacation,_You_Can_Be_My_Parasol_Be_Your_Own_Pet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Will Become Silhouettes",
+      "artist": "The Postal Service",
+      "has_synced": false,
+      "path": "select/13_We_Will_Become_Silhouettes_The_Postal_Service.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Will Become Silhouettes",
+      "artist": "The Postal Service",
+      "has_synced": true,
+      "path": "select/14_We_Will_Become_Silhouettes_The_Postal_Service.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Will Become Silhouettes",
+      "artist": "The Postal Service",
+      "has_synced": false,
+      "path": "select/15_We_Will_Become_Silhouettes_The_Postal_Service.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE WILL!!",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_WE_WILL!!_Liella!.txt"
+    }
+  ]
+}
